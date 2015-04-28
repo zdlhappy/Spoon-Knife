@@ -1,2 +1,6 @@
 add a file to the project 2015.4.28 14:52
+<<<<<<< HEAD
 pull or fetch 
+=======
+pull or fetch git
+>>>>>>> origin/master
